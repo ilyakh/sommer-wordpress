@@ -9,6 +9,10 @@
 global $more;
 $more = 0;
 
+
+
+
+
 if ( have_posts() ) :
 
     $post_count = $wp_query->post_count;

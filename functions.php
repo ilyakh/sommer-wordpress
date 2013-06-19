@@ -112,9 +112,7 @@ function sonen_content_filter( $content ) {
 	uncomment and move to the top if lightbox-plus is uninstalled */
 	// require_once "personal/simple_html_dom.php";
 	
-	
-	
-	
+
 	if ( is_single() ) {	
 		
 		$html = str_get_html( "<div class='entry-content'>". $content ."</div>" );

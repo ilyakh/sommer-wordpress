@@ -38,10 +38,10 @@ style="background-image: url('<?php echo get_template_directory_uri(); ?>/img/ba
 				  <li class="active">
 					<a href="/">HOVEDSIDE</a>
 				  </li>
-				  <li><a href="/tag/prosjekt">PROSJEKTER</a></li>
-				  <li><a href="/category/article">ARTIKLER</a></li>
-				  <li><a href="/wiki/">WIKI</a></li>
-                  <li><a href="/om-sonen">OM SONEN</a></li>
+				  <li><a href="/tag/prosjekt">SPØRSMÅL OG SVAR</a></li>
+				  <li><a href="/category/article">STEDER</a></li>
+				  <li><a href="/wiki/">MÅL</a></li>
+                  <li><a href="/om-sonen">OM OSS</a></li>
 				</ul>
 			</div>
 		</div>

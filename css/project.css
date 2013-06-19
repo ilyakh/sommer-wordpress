@@ -100,6 +100,7 @@ h4, h5, h6 {
 
 .preview .description h1 {
 	background-color: black;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
 .preview .description h1 a:hover {
@@ -364,7 +365,7 @@ h4, h5, h6 {
 
 #blogroll .blogroll-row-second {}
 
-#blogroll .blogroll-row-second margin-bottom: 1.1em;
+#blogroll .blogroll-row-second { margin-bottom:  1.1em }
 
 #blogroll .blogroll-row-second .widgettitle {
     font-size: 1.15em;

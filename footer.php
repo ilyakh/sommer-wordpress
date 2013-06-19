@@ -1,5 +1,5 @@
 		</div>
-        
+            <!--
             <div id="blogroll">
 
                 <div class="row-fluid blogroll-row blogroll-row-first">
@@ -18,7 +18,7 @@
                     </div>
                 </div>
             </div>
-        
+            -->
         
 	</div>    
 </div> 
